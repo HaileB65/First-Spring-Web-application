@@ -8,7 +8,7 @@ public class StatusController {  // replace with ReportController
 
     private final StatusService statusService;
 
-    public StatusController(StatusService statusService) { //fdlas
+    public StatusController(StatusService statusService) { //
         this.statusService = statusService;
     }
 
